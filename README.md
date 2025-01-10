@@ -15,8 +15,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinl803&show_icons=true&locale=en&theme=tokyonight" alt="marvinl803" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvinl803&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvinl803&" alt="marvinl803" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marvinl803&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=marvinl803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
