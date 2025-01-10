@@ -18,5 +18,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvinl803&" alt="marvinl803" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marvinl803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
