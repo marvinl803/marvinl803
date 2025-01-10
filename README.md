@@ -1,4 +1,6 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/marvinl803/marvinl803/main/banner.png"> </div>
+<h3 align="center">Curious about building software, solving problems, and enjoy creating tools that are both useful and impactful.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvinl803&label=Profile%20views&color=0e75b6&style=flat" alt="marvinl803" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,3 +19,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marvinl803&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
